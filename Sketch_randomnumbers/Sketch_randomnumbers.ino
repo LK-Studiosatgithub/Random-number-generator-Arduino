@@ -1,3 +1,6 @@
+     //Random number generator
+     // (c) LK-Studios 2016
+     
     int r = 0; //define variable for the random number(s)
 
     void setup() {
